@@ -1,2 +1,6 @@
 hi its me ritik raj.
+<<<<<<< HEAD
 this change is made on the git hub at google chrome.
+=======
+I am a student at sir m Visvesvaraya institute of technology.
+>>>>>>> 66885b7 (second commit made on the system)
